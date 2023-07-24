@@ -443,18 +443,18 @@ footer {
   }
   
   .slide1 {
-    background-image: url(/assets/icons/comeceazerar.png);
+    background-image: url(./assets/icons/comeceazerar.png);
     animation-delay: 0s;
 
   }
   
   .slide2 {
-    background-image: url(/assets/icons/start.png);
+    background-image: url(./assets/icons/start.png);
     animation-delay: 5s;
   }
   
   .slide3 {
-    background-image: url(/assets/icons/terraria.png);
+    background-image: url(./assets/icons/terraria.png);
     animation-delay: 10s;
   }
   
